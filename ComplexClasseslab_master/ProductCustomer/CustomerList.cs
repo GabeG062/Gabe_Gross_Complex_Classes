@@ -8,9 +8,11 @@ namespace CustomerProductClasses
 {
     public class CustomerList
     {
-        private List<Customer> products;
+        private List<Customer> customers;
 
         public CustomerList()
         {
-            products = new List<Customer>();
+            customers = new List<Customer>();
         }
+    }
+}

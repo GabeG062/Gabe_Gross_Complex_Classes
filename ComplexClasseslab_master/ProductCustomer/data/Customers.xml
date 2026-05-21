@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+    <Customers>
+        <Id>1256</Id>
+        <First>First</First>
+        <Last>Name</Last>
+        <Mail>linker@email.com</Mail>
+        <PhoneNum>123-456-7890</PhoneNum>
+    </Customers>
+    <Customers>
+        <Id>1265</Id>
+        <First>Second</First>
+        <Last>Third</Last>
+        <Mail>linked@email.com</Mail>
+        <PhoneNum>321-654-0987</PhoneNum>
+    </Customers>
+</Customers>
